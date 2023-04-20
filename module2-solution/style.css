@@ -1,9 +1,9 @@
 /*basic style*/
     * {
        box-sizing: border-box;
-       margin: 0 px;
-       padding: 0 px;
-       position: 0 px;
+       margin: 0px;
+       padding: 0px;
+       position: 0px;
     }
 
     h1 {
@@ -12,7 +12,6 @@
        color: #ff4532;
        font-size: 50px;
        position: relative;
-       position: 0 px;
    }
 
     section {
@@ -31,9 +30,7 @@
         background-color: gray;
         border: 3.5px solid black;
         width: 100%;
-        margin-left: auto;
-        margin-right: auto;
-        margin-bottom: auto;
+        margin:auto;
      }
 
     .sub1 {
