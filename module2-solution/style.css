@@ -27,10 +27,7 @@
         background-color: gray;
         border: 3.5px solid black;
         width: 100%;
-        margin-left: auto;
-        margin-right: auto;
-        margin-bottom: auto;
-    }
+        margin: auto;
 
     .sub1 {
         float: right;
