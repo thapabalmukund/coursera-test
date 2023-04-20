@@ -24,7 +24,7 @@
         clear: right;
     }
 
-    .bg {
+    #bg {
         position: relative;
         background-color: gray;
         border: 3.5px solid black;
