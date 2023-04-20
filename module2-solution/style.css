@@ -3,7 +3,7 @@
         box-sizing: border-box;
     }
 
-    h1 {
+   div+h1 {
        margin-bottom: 15px;
        text-align: center;
        color: #ff4532;
