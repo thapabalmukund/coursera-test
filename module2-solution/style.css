@@ -9,6 +9,7 @@
        color: #ff4532;
        font-size: 50px;
        margin-top: -10px;
+       background-color: white; 
    }
 
     section {
@@ -73,7 +74,6 @@
     .content {
         padding: 5px;
         border: none;
-        background-color: gray;
         font-family: Helvetica;
         color: black;
         margin: 3px ;
