@@ -1,7 +1,9 @@
 /*basic style*/
     * {
-        box-sizing: border-box;
-        position: 0 px;
+       box-sizing: border-box;
+       margin: 0 px;
+       padding: 0 px;
+       position: 0 px;
     }
 
     h1 {
@@ -22,7 +24,7 @@
         clear: right;
     }
 
-    #bg {
+    div#bg {
         position: relative;
         background-color: gray;
         border: 3.5px solid black;
