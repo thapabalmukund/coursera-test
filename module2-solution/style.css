@@ -3,16 +3,13 @@
         box-sizing: border-box;
     }
 
-    body {
-        background-color: white;
-    }
-
     h1 {
        margin-bottom: 15px;
-    text-align: center;
-    color: #ff4532;
-    font-size: 50px;
-    }
+       text-align: center;
+       color: #ff4532;
+       font-size: 50px;
+       margin-top: -10px;
+   }
 
     section {
         position: relative;
