@@ -11,6 +11,7 @@
        text-align: center;
        color: #ff4532;
        font-size: 50px;
+       position: relative;
    }
 
     section {
@@ -24,7 +25,7 @@
         clear: right;
     }
 
-    div#bg {
+    div.bg {
         position: relative;
         background-color: gray;
         border: 3.5px solid black;
